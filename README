@@ -1,0 +1,6 @@
+General Transit Feed Schedule (GTFS) is relational database schema designed by Google to help standardize the way transportation authorities present their time-tables. There are eight required tables but additional tables can be added to portray how routes should appear on mapping services like Google Maps or Bing Maps or how station information should be displayed to users by web and app developers. This data is usually presented in a series of CSV text files. SQL-Server GTFS parser/buidler is a .NET utility to parse these text files and build a fully indexed SQL-Server or SQL-Server CE database. 
+
+More information about GTFS is available here:
+https://developers.google.com/transit/gtfs/reference
+
+More information will be added soon to explain the data-types used as well as changes that can be maded to accomodated specific transportation systems.
