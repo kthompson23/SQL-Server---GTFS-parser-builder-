@@ -1,0 +1,5 @@
+C:\Users\Kenny\documents\visual studio 2010\Projects\SQL-Server_GTFS_builder-parser\SQL-Server_GTFS_builder-parser\bin\Debug\SQL-Server_GTFS_builder-parser.exe
+C:\Users\Kenny\documents\visual studio 2010\Projects\SQL-Server_GTFS_builder-parser\SQL-Server_GTFS_builder-parser\bin\Debug\SQL-Server_GTFS_builder-parser.pdb
+C:\Users\Kenny\documents\visual studio 2010\Projects\SQL-Server_GTFS_builder-parser\SQL-Server_GTFS_builder-parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenny\documents\visual studio 2010\Projects\SQL-Server_GTFS_builder-parser\SQL-Server_GTFS_builder-parser\obj\x86\Debug\SQL-Server_GTFS_builder-parser.exe
+C:\Users\Kenny\documents\visual studio 2010\Projects\SQL-Server_GTFS_builder-parser\SQL-Server_GTFS_builder-parser\obj\x86\Debug\SQL-Server_GTFS_builder-parser.pdb
